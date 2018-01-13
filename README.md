@@ -1,10 +1,10 @@
 # c_programs_practice
-Simple C Programs
+#Simple C Programs
 
 
-C Program to Check if a given Integer is Odd or Even
+#C Program to Check if a given Integer is Odd or Even
    	check_even_odd.c
-C Program to Calculate the Sum of Odd & Even Numbers
+#C Program to Calculate the Sum of Odd & Even Numbers
   sum_even_odd.c
 C Program to Check if a given Integer is Positive or Negative
   check_positive_negative.c
